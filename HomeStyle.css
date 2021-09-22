@@ -1,0 +1,59 @@
+.center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 189px;
+}
+h1 {
+	color: whitesmoke;
+}
+/* unvisited link */
+a:link {
+  color: lightblue;
+}
+
+/* visited link */
+a:visited {
+  color: whitesmoke;
+}
+
+/* mouse over link */
+a:hover {
+  color: lightseagreen;
+}
+
+/* selected link */
+a:active {
+  color: grey;
+}
+
+a {
+	font-weight: bold;
+	font-style: italic;
+}
+
+body {
+	background-image: url('ring.jpeg');
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	font-family: sans-serif;
+}
+th {
+	color: darkslategray;
+	font-size: 20px;
+}
+
+dl {
+	color: whitesmoke;
+}
+
+table {
+	width: 30%;
+	align-content: center;
+	height: 30;
+}
+
+.zebra {
+	background-color: lightgrey;
+}
