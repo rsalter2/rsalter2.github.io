@@ -1,0 +1,37 @@
+.artist {
+	font-family: arial;
+	font-weight: bold;
+	color: moccasin;
+}
+.ANK {
+	font-family: arial;
+	font-weight: normal;
+	color: khaki;
+}
+.year {
+	font-family: arial;
+	font-weight: bold;
+	color: ivory;
+}
+.lyrics {
+	font-family: Trebuchet MS;
+	font-weight: bold;
+	color: gold;
+	margin-left: 2cm;
+	margin-right: 2cm;
+}
+.chorus {
+	font-style: italic;
+	margin-left: 4cm;
+	margin-right: 4cm;
+}
+.smaller {
+	font-size: 12pt;
+}
+.bigger {
+	font-size: 14pt;
+}
+
+.Background {
+	background-color: chocolate;
+}
